@@ -3,12 +3,5 @@
 
 def parrot(say = "Squawk!")
   puts "#{say}"
-  "Pretty bird!"
-end
-
-parrot("Squawk")
-
-
-  puts "#{string}"
-  "#{string}"
+  "#{say}"
 end
